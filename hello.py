@@ -1,0 +1,7 @@
+print("we are printing from one to 10")
+for i in range(1,11):
+    print(i)
+
+a=1
+while(a<11):    
+    print(a)
